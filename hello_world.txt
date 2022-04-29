@@ -1,2 +1,10 @@
 test test 
 i would like to see if this works
+hmMMmmm so ig i'll make this part of my notes on how to do this
+ok so first u edit changes on this document
+then u need to save it by pressing cmd + save
+then after that go back to terminal and you can press git status to check if it is working
+then u need to add that by typing "git add <file>..."
+then if you want to check it again you can type "git status" again
+then to "commit" save your changes then you would type "git commit -m "whatever message or desc on what changes you made??" 
+then to publish it to git hub you would have to type git push origin main or just git push (beginning)
